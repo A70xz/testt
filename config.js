@@ -53,7 +53,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 877-1133-7556
+global.phn = '+62 877-1133-7556'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
